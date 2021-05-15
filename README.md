@@ -1,5 +1,5 @@
 # Connect 4
- A two-player Connect 4 game created in Java
+ A two-player Connect 4 game created in Java using Java Swing
  
  ## Table of contents
 * [General info](#general-info)
